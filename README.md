@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-- 🎓 Software Engineering student at **WeThinkCode_**
+- 🎓 BSc IT (Robotics) student at **Eduvos**
 - 🐍 Strong foundation in **Python**
 - ☕ Actively developing with **Java**
 - 🗄️ Working with **SQL** for structured data and persistence
