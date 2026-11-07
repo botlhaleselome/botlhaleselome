@@ -64,7 +64,7 @@ A practical ledger system that helps informal traders record transactions and ma
 
 **Hardware & tooling**
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,git,linux,docker,mongodb,neo4j&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,git,linux,docker,mongodb,npm,nodejs&theme=dark)](https://skillicons.dev)
 
 
 **Engineering practices:** SDLC · Separation of concerns · Unit testing · Code analysis · Build scripts · Build pipelines
