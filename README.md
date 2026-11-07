@@ -4,7 +4,7 @@
 
 - 🎓 BSc IT (Robotics) student at **Eduvos**
 - 🐍 Strong foundation in **Python**
-- ☕ Actively developing with **Java**
+- ☕ Strong foundation in **Java**
 - 🗄️ Working with **SQL** for structured data and persistence
 - 🧪 Familiar with **software testing** practices and the **SDLC**
 - 🧠 Apply **separation of concerns** to build modular, maintainable systems
